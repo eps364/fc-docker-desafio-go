@@ -1,0 +1,7 @@
+services: 
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: eps364/codeeducation:latest
+    container_name: codeeducation
