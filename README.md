@@ -1,7 +1,14 @@
-Desafio Go - FullCycle
+# Desafio FullCycle - Docker 01
+## Desafio Go
 
-- Inicialização com o Comando:
-> docker-compose up --build
+[Link da imagem no Docker Hub](https://hub.docker.com/r/eps364/codeeducation)
 
-Link da imagem no Docker Hub: 
-https://hub.docker.com/r/eps364/codeeducation
+## Clonando o projeto:
+```
+git clone https://github.com/eps364/fc-desafio-mysql-node-ngnix.git
+```
+```
+docker-compose up --build
+```
+
+
