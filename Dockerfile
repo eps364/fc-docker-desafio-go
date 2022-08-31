@@ -1,4 +1,4 @@
-FROM golang:1.13-alpine as builder
+FROM golang:bullseye as builder
 
 ENV PATH=$PATH:/usr/local/go/bin
 WORKDIR /usr/local/go/
