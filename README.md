@@ -1,7 +1,7 @@
 # Desafio FullCycle - Docker 01
 ## Desafio Go
 
-[Link da imagem no Docker Hub](https://hub.docker.com/r/eps364/codeeducation)
+[Link da imagem com menos de 2MB no Docker Hub](https://hub.docker.com/r/eps364/codeeducation)
 
 ## Clonando o projeto:
 ```
